@@ -10,6 +10,8 @@ https://github.com/user-attachments/assets/2a0d9364-fd0c-4da5-9744-5fd7c26cd19a
 
 https://github.com/user-attachments/assets/e9c99f3e-6d9a-484a-aa34-8bdf5fbb2b02
 
+https://github.com/SiyunSun/houdini_ctvisualizer/issues/3#issue-5906552330
+
 ## Requirements
 
 - Houdini 21.0 on Windows
