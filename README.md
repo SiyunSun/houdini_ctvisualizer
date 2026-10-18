@@ -10,8 +10,6 @@ https://github.com/user-attachments/assets/2a0d9364-fd0c-4da5-9744-5fd7c26cd19a
 
 https://github.com/user-attachments/assets/e9c99f3e-6d9a-484a-aa34-8bdf5fbb2b02
 
-https://github.com/user-attachments/assets/e1f65b95-c8c0-4832-8f50-80b6e23b76db
-
 ## Requirements
 
 - Houdini 21.0 on Windows
