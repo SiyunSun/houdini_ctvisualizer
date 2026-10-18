@@ -4,11 +4,7 @@ This Houdini project reads a regular DICOM image series with SimpleITK and conve
 
 ## Preview
 
-![Render](images/1.mp4)
-![Render](images/2.mp4)
-![Render](images/3.mp4)
-![Render](images/4.mp4)
-![Volume Slice](images/5.mp4)
+https://github.com/user-attachments/assets/dca1d4fe-18b8-4d33-8ba7-8fd841fc6837
 
 ## Requirements
 
