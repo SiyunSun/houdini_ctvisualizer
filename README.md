@@ -6,13 +6,9 @@ This Houdini project reads a regular DICOM image series with SimpleITK and conve
 
 https://github.com/user-attachments/assets/dca1d4fe-18b8-4d33-8ba7-8fd841fc6837
 
-https://github.com/user-attachments/assets/5be6588f-997e-4129-927c-1a0e94dc9bb1
-
 https://github.com/user-attachments/assets/2a0d9364-fd0c-4da5-9744-5fd7c26cd19a
 
 https://github.com/user-attachments/assets/e9c99f3e-6d9a-484a-aa34-8bdf5fbb2b02
-
-https://github.com/user-attachments/assets/097ee254-42c1-4358-928c-ea689c2eca09
 
 https://github.com/user-attachments/assets/e1f65b95-c8c0-4832-8f50-80b6e23b76db
 
