@@ -146,6 +146,15 @@ Increase **Preview Voxel Spacing** to reduce the preview resolution. Increase **
 
 Most conversion settings create a different keyed cache automatically. If source files were replaced in place without changing the source path, enable **Force Rebuild** once.
 
+## About this adaptation
+
+This project is an unofficial Houdini adaptation inspired by [Bioxel Nodes](https://github.com/OmooLab/BioxelNodes), an open-source Blender add-on for scientific volumetric-data visualization.
+
+It translates parts of the Bioxel workflow into a Houdini SOP-based setup, using SimpleITK to read supported DICOM image series and create native Houdini volumes. The interface, caching workflow, and Houdini node network were adapted for use inside Houdini 21.
+
+Bioxel Nodes was created by OmooLab and its contributors and is distributed under the GNU General Public License v3.0 or later. This adaptation is also distributed under `GPL-3.0-or-later` in accordance with those terms.
+
+This independent project is not affiliated with, maintained by, or endorsed by OmooLab. For the original Blender implementation, documentation, and current releases, visit the [official Bioxel Nodes GitHub repository](https://github.com/OmooLab/BioxelNodes).
 ## Moving the project
 
 Move or copy the whole `SimpleITK_Converter.v4` folder. Do not move only the HIP file. Keeping the folder structure intact preserves all `$HIP`-relative scan, dependency, and cache paths.
