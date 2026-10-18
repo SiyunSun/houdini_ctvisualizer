@@ -1,4 +1,4 @@
-# SimpleITK Converter v4 for Houdini 21
+# SimpleITK Converter for Houdini
 
 This Houdini project reads a regular DICOM image series with SimpleITK and converts it into a Houdini volume for viewing and further SOP processing. The project is portable: its scan, Python dependency, and cache are stored beside the HIP file and should be referenced through `$HIP`.
 
