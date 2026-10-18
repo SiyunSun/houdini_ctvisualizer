@@ -2,6 +2,14 @@
 
 This Houdini project reads a regular DICOM image series with SimpleITK and converts it into a Houdini volume for viewing and further SOP processing. The project is portable: its scan, Python dependency, and cache are stored beside the HIP file and should be referenced through `$HIP`.
 
+## Preview
+
+![Render](images/1.mp4)
+![Render](images/2.mp4)
+![Render](images/3.mp4)
+![Render](images/4.mp4)
+![Volume Slice](images/5.mp4)
+
 ## Requirements
 
 - Houdini 21.0 on Windows
